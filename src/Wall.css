@@ -1,0 +1,40 @@
+.preview-wall {
+    background-color: rgb(236, 236, 236);
+    padding: 10px 10px 10px 10px;
+    display: grid;
+    grid-template-columns: 1.4fr 1.1fr 1fr;
+    width: 1400px;
+    height: auto;
+    min-height: 400px;
+}
+
+.card {
+    padding: 10px;
+    font-weight: bold;
+}
+
+.card-area {
+    margin-top: 1.5em;
+    margin-bottom: 5.5em;
+}
+
+.label-text {
+    font-size: 18px;
+}
+
+.card-unavailable {
+    text-align: center;
+}
+
+.preview-heading {
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.preview-error {
+    font-weight: normal;
+}
+
+.preview-card {
+    font-weight: 500;
+}
